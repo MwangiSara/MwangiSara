@@ -1,16 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Sarah Mwangi</h1>
 <h3 align="center">A Software Engineer student.</h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/b2/ce/a3/b2cea32f42f75330e562e3a75f391da8.gif">
-- 🔭 I’m currently working on **AWS Cloud computing**
+
+- 🔭 I’m currently working on [TypeScript](https://gist.github.com/shilman/bc9cbedb2a7efb5ec6710337cbd20c0c)
 
 - 🌱 I’m currently learning **Cyber security skills**
 
-- 💬 Ask me about **Python, APIs,Javascript**
+- 🤝 I’m looking for help with **Cloud Computing**
+
+- 💬 Ask me about **Python, APIs, JavaScript, TypeScript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sarah-mwangi-a3ab101b8/**
 
 - ⚡ Fun fact **I'm a big fun of F1 races**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
