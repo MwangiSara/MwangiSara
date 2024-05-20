@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Sarah Mwangi</h1>
 <h3 align="center">A Data Analyst and MERN stack developer</h3>
 
+<img align="right" alt="gif" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/web-development-6113550-5044209.mp4" >
+
 - 🔭 I’m currently working on **Advanced Data Science**
 
 - 🌱 I’m currently learning **MERN stack**
