@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sarah Mwangi</h1>
-<h3 align="center">A Data Analyst and MERN stack developer</h3>
+<h3 align="center">Full Stack Developer, Software Development and Data Science Trainor</h3>
 
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1008970/screenshots/6251310/blog_post_js.gif" >
 
