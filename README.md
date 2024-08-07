@@ -1,23 +1,17 @@
 <h1 align="center">Hi, I'm Sarah Mwangi</h1>
-<h3 align="center">Full Stack Developer, Software Development and Data Science Trainor</h3>
+<h3 align="center">Full Stack Developer, and Software Development and Data Science Trainor</h3>
 
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1008970/screenshots/6251310/blog_post_js.gif" >
 
 - 🔭 I’m currently working on **Advanced Data Science**
 
-- 🌱 I’m currently learning **MERN stack**
-
-- 🤝 I’m looking for help with **Cloud Computing**
-
 - 👨‍💻 All of my projects are available at [https://sarahmwangi.netlify.app](https://sarahmwangi.netlify.app)
 
-- 💬 Ask me about **Data Analysis, MERN, Android development(Kotlin),**
+- 💬 Ask me about **FastAPI, Backend(python),Data science,AI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sarah-mwangi-a3ab101b8/**
 
 - 📄 Know about my experiences [https://sarahmwangi.netlify.app](https://sarahmwangi.netlify.app)
-
-- ⚡ Fun fact **I'm a big fun of F1 races**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
