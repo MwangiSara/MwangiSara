@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.app/]([https://portfolio.app](https://portfolio-p9z3bh6vo-sarah-mwangis-projects.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://portfolio.app/](https://portfolio-p9z3bh6vo-sarah-mwangis-projects.vercel.app/)
 
 - 💬 Ask me about **FastAPI, Backend(python),Data science,AI**
 
