@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sarah Mwangi</h1>
-<h3 align="center">Backend Developer, and Data Scientist</h3>
+<h3 align="center">Backend Developer, Data Scientist and ML/AI developer</h3>
 
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1008970/screenshots/6251310/blog_post_js.gif" >
 
-- 🔭 I’m currently working on **Advanced Data Science**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-p9z3bh6vo-sarah-mwangis-projects.vercel.app/](https://portfolio.app)
+- 👨‍💻 All of my projects are available at [https://portfolio.app/]([https://portfolio.app](https://portfolio-p9z3bh6vo-sarah-mwangis-projects.vercel.app/))
 
 - 💬 Ask me about **FastAPI, Backend(python),Data science,AI**
 
